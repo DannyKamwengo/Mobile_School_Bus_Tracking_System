@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mobile_School_Bus_Tracking_System</string>
+    <string name="location_label">Realtime Location</string>
+    <string name="loading">Loading…</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="novalues">0.0</string>
+    <string name="metagetGPStxt">Get GPS From Device</string>
+    <string name="realtimegetGPStxt">Real Time Location</string>
+    <string name="infotext">Get real time position from device and send to a server witnin a 30 seconds interval. Receive acknowledgement from server when position is received</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
